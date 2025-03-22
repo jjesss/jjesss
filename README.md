@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently in a Systems Developer role. I completed my BSc Computer Science and Mathematics at Lancaster University.
+
+📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/jessica-ho-profile/
+  - Email: jessicamjho@gmail.com
 <!--
 **jjesss/jjesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
