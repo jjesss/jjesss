@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently in a Systems Developer role. I completed my BSc Computer Science and Mathematics at Lancaster University.
+🔭 I’m currently a Systems Developer. I completed my BSc Computer Science and Mathematics at Lancaster University.
 
 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/jessica-ho-profile/
